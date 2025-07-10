@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Manas Mayank
 
-<!--
-**ManasMayank0108/ManasMayank0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A detail-oriented **Data Analyst** passionate about solving real-world problems using **Python, Machine Learning**, and **data visualization**. I specialize in making sense of complex datasets across domains like **e-commerce, logistics, and healthcare** to drive smarter business decisions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🛠️ Skills & Tools
+**Languages & Libraries**: Python, Pandas, NumPy, Scikit-learn, SQL, Excel(VLOOKUP, Pivot Table).
+**Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly. 
+**Techniques**: Exploratory Data Analysis (EDA), Machine Learning, Classification, Clustering, SMOTE, Data Manipulation  
+**Other Tools**: Jupyter Notebook, Streamlit.
+
+
+# 📊 Featured Projects
+
+🧾 [Customer Segmentation using RFM + K-Means]-(https://github.com/ManasMayank0108)
+- Segmented 5,000+ retail customers based on Recency, Frequency, and Monetary value.
+- Applied **K-Means Clustering** and visualized customer behavior using Python.
+
+💳 [Credit Card Fraud Detection]-(https://github.com/ManasMayank0108/credit-card-fraud-detection)
+- Built a **Logistic Regression** model using SMOTE to handle class imbalance.
+- Achieved high **recall** to minimize false negatives in fraud detection.
+
+🏥 [Healthcare Data Analysis]-(https://github.com/ManasMayank0108)
+- Analyzed patient records and billing data to identify patterns in treatment outcomes.
+- Improved healthcare service delivery through actionable insights.
+
+🚚 [Supply Chain Optimization (E-commerce)]-(https://github.com/ManasMayank0108/Supply_Chain_Management_data_analysis_with_Pyth)
+- Identified delivery inefficiencies and improved order fulfillment using Python and Power BI.
+
+✈️ [Flight Price Prediction]-(https://github.com/ManasMayank0108/flight-price-prediction)
+- Modeled airfare pricing using ML techniques and historical data.
+
+
+# 💼 Experience
+
+**Data Analyst – YBI Foundation**  
+Aug 2024 – Oct 2024
+- Analyzed medical datasets to detect cost trends and treatment outcomes.  
+- Identified impactful correlations to aid healthcare decision-making.
+
+**Data Analysis Intern – Cognifyz Technologies**  
+Feb 2025 – Mar 2025  
+- Uncovered factors driving delivery efficiency in logistics.  
+- Helped optimize scheduling based on data-driven insights.
+
+
+# 📚 Certifications
+- ✅ IBM Data Analyst Professional Certificate – Coursera  
+- ✅ Google Data Analytics Professional Certificate – Coursera  
+- ✅ AWS: Data Analytics on AWS  
+- ✅ Microsoft Certified: Power Platform Fundamentals  
+
+
+# 🎓 Education
+**B.E. in Computer Science** – Chandigarh University (2021 – 2025)  
+**XII – CBSE** – Holy Mission Sec School (2019 – 2021)  
+**X – CBSE** – Acme Public School (2018 – 2019)
+
+
+# 📫 Let's Connect!
+- 📧 Email: manasmayank0108@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/meetmanasmayank/)  
+- 🌍 Based in: New Delhi, India
+
