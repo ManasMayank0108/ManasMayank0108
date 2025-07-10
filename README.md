@@ -49,7 +49,7 @@ Feb 2025 – Mar 2025
 # 📫 Let's Connect!
 - 📧 Email: manasmayank0108@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/meetmanasmayank/)  
-- 🌍 Based in: New Delhi, India
+- 🌍 Based in: Noida, Uttar Pradesh, India
 
 
 
