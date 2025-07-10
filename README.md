@@ -13,23 +13,11 @@
 
 # 📊 Featured Projects
 
-🧾 [Customer Segmentation using RFM + K-Means]-(https://github.com/ManasMayank0108)
-- Segmented 5,000+ retail customers based on Recency, Frequency, and Monetary value.
-- Applied **K-Means Clustering** and visualized customer behavior using Python.
-
-💳 [Credit Card Fraud Detection]-(https://github.com/ManasMayank0108/credit-card-fraud-detection)
-- Built a **Logistic Regression** model using SMOTE to handle class imbalance.
-- Achieved high **recall** to minimize false negatives in fraud detection.
-
-🏥 [Healthcare Data Analysis]-(https://github.com/ManasMayank0108)
-- Analyzed patient records and billing data to identify patterns in treatment outcomes.
-- Improved healthcare service delivery through actionable insights.
-
-🚚 [Supply Chain Optimization (E-commerce)]-(https://github.com/ManasMayank0108/Supply_Chain_Management_data_analysis_with_Pyth)
-- Identified delivery inefficiencies and improved order fulfillment using Python and Power BI.
-
-✈️ [Flight Price Prediction]-(https://github.com/ManasMayank0108/flight-price-prediction)
-- Modeled airfare pricing using ML techniques and historical data.
+- 🧾 [**Customer Segmentation using RFM + K-Means**](https://github.com/ManasMayank0108)
+- 💳 [**Credit Card Fraud Detection**](https://github.com/ManasMayank0108/credit-card-fraud-detection)
+- 🏥 [**Healthcare Data Analysis**](https://github.com/ManasMayank0108)
+- 🚚 [**Supply Chain Optimization**](https://github.com/ManasMayank0108/Supply_Chain_Management_data_analysis_with_Pyth)
+- ✈️ [**Flight Price Prediction**](https://github.com/ManasMayank0108/flight-price-prediction)
 
 
 # 💼 Experience
